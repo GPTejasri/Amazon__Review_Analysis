@@ -50,7 +50,7 @@
 # Clone this repository.
 git clone https://github.com/GPTejasri/Amazon__Review_Analysis.git
 # Navigate to the directory
-cd amazon-review-analysis
+cd Amazon__Review_Analysis
 # Install requirements
 pip install -r requirements.txt
 # Launch the application
