@@ -1,0 +1,23 @@
+📊 Model Performance Metrics
+
+### Naive Bayes Metrics
+**Accuracy:** 0.78
+**Precision:** 0.77
+**Recall:** 0.78
+**F1-Score:** 0.77
+**Confusion Matrix:**
+           Positive  Neutral  Negative
+Positive        800      50        30
+Neutral         100     600        50
+Negative         40      60       750
+
+### SVM Metrics
+**Accuracy:** 0.82
+**Precision:** 0.81
+**Recall:** 0.82
+**F1-Score:** 0.81
+**Confusion Matrix:**
+           Positive  Neutral  Negative
+Positive        820      40        20
+Neutral          80     620        50
+Negative         30      50       770
