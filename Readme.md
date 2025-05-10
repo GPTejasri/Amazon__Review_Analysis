@@ -48,7 +48,7 @@
 ### Instructions to Run the Application Locally:
 ```bash
 # Clone this repository.
-git clone https://github.com/GPTejasri/amazon-review-analysis.git
+git clone https://github.com/GPTejasri/Amazon__Review_Analysis.git
 # Navigate to the directory
 cd amazon-review-analysis
 # Install requirements
