@@ -53,6 +53,8 @@ git clone https://github.com/GPTejasri/Amazon_Review_Analysis.git
 cd Amazon_Review_Analysis
 # Install requirements
 pip install -r requirements.txt
+#install streamlit
+pip install streamlit
 # Launch the application
 streamlit run app.py
 
