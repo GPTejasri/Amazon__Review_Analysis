@@ -1,4 +1,4 @@
-📊 Model Performance Metrics
+ Model Performance Metrics
 
 ### Naive Bayes Metrics
 **Accuracy:** 0.78
